@@ -1,4 +1,4 @@
-#Sales Taxes Problem
+# Sales Taxes Problem
 
 This is my solution to The Sales Taxes Problem
 
